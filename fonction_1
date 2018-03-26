@@ -1,0 +1,8 @@
+void fonction_1(int MAX){
+\\some comment
+int b=1;
+for(unsigned int i=0; i<MAX; i++){
+	if(b){
+		printf("b");
+	}
+}
